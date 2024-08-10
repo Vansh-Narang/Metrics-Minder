@@ -15,7 +15,7 @@ const Auth = () => {
 
     const navigate = useNavigate()
     return (
-        <GoogleOAuthProvider clientId="476590589042-82n0asuhvvesom8patq9peeol4m8gi0j.apps.googleusercontent.com">
+        <GoogleOAuthProvider clientId="Enter your client id">
             <div className="h-screen">
                 <Toaster position="bottom-right" reverseOrder={false} />
                 <Navbar />
