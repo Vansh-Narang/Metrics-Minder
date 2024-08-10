@@ -1,0 +1,40 @@
+{
+  "data": {
+    "current": {
+      "new_visitors": "125",
+      "page_views": "239",
+      "views_per_visit": "1.47",
+      "total_visits": "162",
+      "total_visitors": "142"
+    },
+    "previous": {
+      "new_visitors": "252",
+      "page_views": "578",
+      "views_per_visit": "1.70",
+      "total_visits": "339",
+      "total_visitors": "274"
+    },
+    "comparison": {
+      "new_visitors": {
+        "overview": "127 less from last 40 days",
+        "is_increasing": false
+      },
+      "page_views": {
+        "overview": "339 less from last 40 days",
+        "is_increasing": false
+      },
+      "views_per_visit": {
+        "overview": "0.23 less from last 40 days",
+        "is_increasing": false
+      },
+      "total_visits": {
+        "overview": "177 less from last 40 days",
+        "is_increasing": false
+      },
+      "total_visitors": {
+        "overview": "132 less from last 40 days",
+        "is_increasing": false
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "image": "https://via.placeholder.com/300",
+        "title": "Sample Title 1",
+        "description": "This is a sample description for card 1."
+    },
+    {
+        "image": "https://via.placeholder.com/300",
+        "title": "Sample Title 2",
+        "description": "This is a sample description for card 2."
+    },
+    {
+        "image": "https://via.placeholder.com/300",
+        "title": "Sample Title 3",
+        "description": "This is a sample description for card 3."
+    },
+    {
+        "image": "https://via.placeholder.com/300",
+        "title": "Sample Title 4",
+        "description": "This is a sample description for card 4."
+    }
+]
